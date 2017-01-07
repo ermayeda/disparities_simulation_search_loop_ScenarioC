@@ -183,7 +183,7 @@ global stk_lambda_exp0_90to95l = 0.01
 /*Target and starting values for baseline mortality hazard for blacks*/
 *Target values
 global target_g1_0to1 = 0.30
-global target_g1_0to1 = 0.30
+global target_g1_1to5 = 0.37
 global target_g1_5to10 = 0.23
 global target_g1_10to15 = 0.56
 global target_g1_15to20 = 0.94
@@ -206,7 +206,7 @@ global target_g1_90to95 = -0.24
 
 *Starting values
 global g1_0to1l = 0.1
-global g1_0to1l = 0.1 
+global g1_1to5l = 0.1 
 global g1_5to10l = 0 
 global g1_10to15l = 0.1 
 global g1_15to20l = 0.4
