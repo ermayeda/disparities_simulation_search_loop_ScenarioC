@@ -13981,7 +13981,7 @@ forvalues i=1/5 {
 			local lambda_80to85 = 	$lambda_80to85
 			local lambda_85to90 = 	$lambda_85to90
 			local lambda_90to95 = 	$lambda_90to95
-			local lambda_95to100 =	$lambda_95to100
+			*local lambda_95to100 =	$lambda_95to100
 
 
 			*baseline hazard of stroke (exp=0 whites), based on Howard Ann Neurol 2011
